@@ -1,0 +1,27 @@
+
+.title{
+margin-bottom: 10px;
+text-align:center;
+ width: 210px;
+ color:rgb(0, 0, 0);
+ border: dashed black 3px;
+ background-color: lightskyblue;
+ max-width: 100%;
+ min-height: 20px;
+}
+  
+input[type="button"]{
+background-color:lightcoral;
+color: rgb(0, 0, 0);
+border: solid black 2px;
+width:100%;
+
+}
+  
+input[type="text"]{
+background-color:lightcoral;
+border: solid black 2px;
+width:100%;
+
+}
+
